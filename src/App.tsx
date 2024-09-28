@@ -30,7 +30,7 @@ function App() {
             sendIncrement();
           }}
         >
-          Increment (Pay: 0.05 Ton)
+          Increment (Pay: 0.04 Ton)
         </a>
       </div>
     </div>
